@@ -21,4 +21,5 @@ Next, put `:PluginInstall`, and your plugins will be installed.
 ..
 
 
-Link: [참고]:http://mjae.kr/2016/10/01/vimlinux-2-neovim-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-24bit-%EC%BB%AC%EB%9F%AC-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/
+[link keyword][id]
+[id]: http://mjae.kr/2016/10/01/vimlinux-2-neovim-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-24bit-%EC%BB%AC%EB%9F%AC-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/ "참고"
